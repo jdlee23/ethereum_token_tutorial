@@ -1,0 +1,25 @@
+{
+  "name": "ethereum_token_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieljoonlee/ethereum_token_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieljoonlee/ethereum_token_tutorial/issues"
+  },
+  "homepage": "https://github.com/danieljoonlee/ethereum_token_tutorial#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "truffle-hdwallet-provider": "0.0.3",
+    "zeppelin-solidity": "1.7.0"
+  }
+}
